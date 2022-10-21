@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.3.0-beta.3 - 2022-10-09
+
+- Updated Roboto font (version 3.005)
+- Fixed calculating auto page height
+- Fixed TrueType Collection loading from URL
+- Fixed refetching fonts from URL
+
 ## 0.3.0-beta.2 - 2022-04-01
 
 - Attachments embedding
